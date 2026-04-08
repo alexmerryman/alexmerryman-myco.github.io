@@ -6,6 +6,3 @@ Get to know me and my interests in mycology.
 
 ## [Resume/CV](/resume-cv.md)
 View my formatted resume/CV here.
-
-## [Projects](/projects.md)
-[under construction] Learn about the projects I'm working on.
