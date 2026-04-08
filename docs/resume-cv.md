@@ -1,4 +1,4 @@
-# Alex Merryman
+# Alex Merryman Resume/CV
 
 *email: [alexmerryman.myco@gmail.com](mailto:alexmerryman.myco@gmail.com)* | *website: [https://alexmerryman.github.io/alexmerryman-myco.github.io/](https://alexmerryman.github.io/alexmerryman-myco.github.io/)*
 
@@ -22,7 +22,7 @@ I am an amateur mycologist based in Colorado, USA. I am passionate about explori
 - Volunteer ambassador.
 
 **Olympic Peninsula Fungi Festival**&nbsp;|&nbsp;*Port Angeles, WA*&nbsp;|&nbsp;*Oct 2025*
-- Scientific collection/vouchering volunteer
+- Scientific collection/vouchering volunteer.
 
 **Fungal Diversity Survey**&nbsp;|&nbsp;*Remote*&nbsp;|&nbsp;*Oct 2025 – Present*
 - DNA Sequence Validation Corps volunteer.
