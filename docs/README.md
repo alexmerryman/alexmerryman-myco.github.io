@@ -8,4 +8,4 @@ Get to know me and my interests in mycology.
 View my formatted resume/CV here.
 
 ## [Projects](/projects.md)
-Learn about the projects I'm working on.
+[under construction] Learn about the projects I'm working on.
