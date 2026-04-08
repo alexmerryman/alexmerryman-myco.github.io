@@ -1,13 +1,11 @@
-# myco.github.io
+# Welcome!
+This is my mycology website -- where I will share details about projects I'm working on, useful resources, and other mycology-related information.
 
-# My Mycology Website
+## [About Me](/about.md)
+Get to know me and my interests in mycology.
 
-[About Me](/about.md)
+## [Resume/CV](/resume-cv.md)
+View my formatted resume/CV here.
 
-[Resume/CV](/resume-cv.md)
-
-[My iNaturalist observations with DNA Sequencing](https://www.inaturalist.org/observations?place_id=any&user_id=alexmerryman&verifiable=any&field:DNA%20Barcode%20ITS=)
-
-Resources:
-- [MycoPortal](https://www.mycoportal.org/portal/collections/)
-- [PNW Pictoral Key](https://www.alpental.com/psms/PNWMushrooms/PictorialKey/index.htm)
+## [Projects](/projects.md)
+Learn about the projects I'm working on.
