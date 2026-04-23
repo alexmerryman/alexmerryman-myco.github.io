@@ -6,7 +6,7 @@ I am an amateur mycologist based in Colorado, USA. I am passionate about explori
 
 ## Published Work & Appearances
 ***Devil’s Gate History Club Speaking Series***&nbsp;|&nbsp;*April 2026*
-- *Mushroom State of Mind: Colorado’s Enduring Fascination with Fungi* (video) ([slides](https://drive.google.com/file/d/1paL8GPbA_9ToGRD34M7isZJMprCnC9mM/view?usp=sharing))
+- *Mushroom State of Mind: Colorado’s Enduring Fascination with Fungi* ([video](https://www.youtube.com/watch?v=Vz5c-Yt53NE)) ([slides](https://drive.google.com/file/d/1paL8GPbA_9ToGRD34M7isZJMprCnC9mM/view?usp=sharing))
 
 **KYGT Clear Creek Radio: *Upstream* program (*[Sprunger and Merryman, July 30, 2025](https://www.clearcreekradio.com/upstream)*)**
 - Guest speaker; discussed local mushrooms/fungi, foraging, and mycology.
